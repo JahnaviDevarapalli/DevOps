@@ -1,8 +1,9 @@
+
 /**
 *The HelloWorldApp class implements an application that simply prints" Hello World" to standard output.
 */
-Public class DevOpsExample {
-   public static Void main(String[])  {
+public class DevOpsExample {
+   public static Void main(String[] args)  {
      System.out.println("Welcome to DevOps.");
    }
 }
